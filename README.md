@@ -13,7 +13,7 @@
 
 |Name|Age|
 |----|---|
-|Amir|34|
+|Amir|0|
 
 Term:
 definition
